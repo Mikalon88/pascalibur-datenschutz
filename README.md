@@ -1,8 +1,10 @@
 
-# Datenschutzerklärung – Pascalibur App
+# Datenschutzerklärung – ManaCounter App
 
 **Stand:** April 2025  
-**Gültig für:** die App *Pascalibur* (Android-Version)
+**Gültig für:** die App *ManaCounter* (iOS-Version)
+**App-Version:** 1.0
+**Systemvoraussetzungen:** iOS 15 oder neuer
 
 ---
 
@@ -19,9 +21,8 @@ E-Mail: [michaelloosli88@gmail.com](mailto:michaelloosli88@gmail.com)
 
 ## 2. Erhobene Daten
 
-Die App *Pascalibur* erhebt und verarbeitet folgende Daten:
+Die App *ManaCounter* erhebt und verarbeitet folgende Daten:
 
-- **Fotos**, die du freiwillig mit der Kamera aufnimmst, werden in einer Cloud-Datenbank (Firebase Storage) gespeichert.
 - **Nutzungsdaten**, wie Klicks und Counter-Werte, werden anonym in Firebase Firestore gespeichert.
 - Bei der ersten App-Nutzung wird automatisch eine **anonyme Nutzerkennung (UID)** über Firebase Auth erstellt. Es findet **keine persönliche Identifizierung** statt.
 - Es werden **keine Standortdaten**, **Kontakte**, **Zahlungsinformationen** oder andere sensible Daten erhoben.
@@ -32,7 +33,6 @@ Die App *Pascalibur* erhebt und verarbeitet folgende Daten:
 
 Die Datenverarbeitung erfolgt zur:
 - Zählung und Darstellung von Mana-Kategorien (z. B. Bier, Scotch, Shots)
-- Speicherung von Galerie-Inhalten
 - Verbesserung der Funktionalität und Nutzererfahrung
 
 ---
